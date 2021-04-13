@@ -20,7 +20,9 @@ Because i can. And i wanted to build a distribution with what i like.
 You can build it yourself with the scripts in arcobobo-i3-wallpaper-zsh.
 
 ```sh
-installationscripts/30-build-the-iso-the-first-time.sh
+git clone https://github.com/PeterDauwe/arcobobo-i3-local-wallpaper-zsh
+
+In installationscripts run 30-build-the-iso-the-first-time.sh
 ```
 ## Download
 
