@@ -1,9 +1,6 @@
 # Product Name
 > This is a ArcoBobo-i3 but...
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 I changed the location of backgrounds to .backgrounds
 There is a .icons or .themes possible but not a .backgrounds - illogical!!!!
