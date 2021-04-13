@@ -1,5 +1,5 @@
 # Product Name
-> Short blurb about what your product does.
+> This is a ArcoBobo-i3 but...
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
