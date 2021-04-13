@@ -5,14 +5,15 @@
 I changed the location of backgrounds to .backgrounds
 There is a .icons or .themes possible but not a .backgrounds - illogical!!!!
 So now all walpapers are in .backgrounds
-ZSH is in .config/Shellconfig/zsh
+
+ZSH is in .config/shellconfig/zsh
 
 
 ![](i3-header.png)
 
 ## Why this adaptation
 
-Because i can. And i wanted to build a distribution with what i like.
+Because i wanted to build a distribution with what i like.
 
 
 ## Building
